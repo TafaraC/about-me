@@ -1,0 +1,1 @@
+In this lab i set up the repository about-me on my github page. Following the steps given in the resources i created a local repository, created the new branch "feature/student-details" and making a series of commits added the required files and associated text to them
